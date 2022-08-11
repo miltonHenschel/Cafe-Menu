@@ -1,2 +1,2 @@
 # Cafe-Menu
- Using CSS and HTML
+ Designing a menu page for a cafe webpage using CSS and HTML .
